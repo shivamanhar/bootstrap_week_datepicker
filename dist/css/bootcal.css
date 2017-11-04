@@ -1,0 +1,33 @@
+.oui-state-hover
+{
+  background-color:hsl(0, 0%, 96%);
+
+}
+.kui-state-hover
+{
+  background-color:hsl(0, 0%, 96%);
+}
+.oui-selected td
+{
+  background-color:hsla(0, 0%, 0%, 0.04) !important;
+  background-image: none !important;
+}
+.from_cal .table>tbody>tr>td, th
+{
+  border:none !important;
+  border-radius:0px !important;
+}
+.from_cal .active
+{
+  color:#000 !important;
+}
+.to_cal .active
+{
+  color:#000 !important;
+}
+
+.to_cal .table>tbody>tr>td, th
+{
+  border:none !important;
+  border-radius:0px !important;
+}
